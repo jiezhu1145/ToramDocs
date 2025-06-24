@@ -17,7 +17,7 @@ comment: false
 
 ### [托拉姆物語](../docs/cuisine#托拉姆物語)
 
-## [職業攻略](../docs/strategy)
+## [职业攻略](../docs/strategy)
 
 ### [目錄](../docs/strategy#目錄)
 
